@@ -1,5 +1,7 @@
 # 작품명: simplydesign 디자인클론 코딩 
-원본사이트: 
+원본사이트: https://rhddbrhdfyd.github.io/pf1/
+![image](https://github.com/user-attachments/assets/41b3666c-ea39-41a5-aa29-7b15e8962643)
+
 
 ## 프로젝트 제목
 반응형 웹 랜딩페이지
